@@ -4,8 +4,10 @@ import 'package:SolarApp/Screens/Welcome/components/body.dart';
 class WelcomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: Body(),
+    return SafeArea(
+      child: Scaffold(
+        body: Body(),
+      ),
     );
   }
 }
