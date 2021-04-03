@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "61413265804",
+    "project_id": "solar-app-c4b87",
+    "storage_bucket": "solar-app-c4b87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61413265804:android:a8b08f53bb88cbc0d386a9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61413265804-l0mpfbvqn9qnbu19j2pn570l7qi7tkt7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_auth",
+            "certificate_hash": "6e24152786ecb1ba5e2b6bc7c38a66069724c69d"
+          }
+        },
+        {
+          "client_id": "61413265804-l8u37sdlq1s75oeuicug2ivivq2rpa6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqsut5S7XXedULv1hfcQJyYjYrCrKmCJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61413265804-l8u37sdlq1s75oeuicug2ivivq2rpa6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
